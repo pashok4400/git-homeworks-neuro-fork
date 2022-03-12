@@ -1,0 +1,14 @@
+*.tmp
+_old
+_backup
+Thumbs.db
+DS_Store
+df
+._.git
+._css
+._.DS_Store
+._img
+._index.html
+._js
+js
+.
